@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "Tiltfile": "python",
+        "string": "cpp",
+        "filesystem": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "fstream": "cpp",
+        "istream": "cpp"
+    }
+}
